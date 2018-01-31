@@ -1,1 +1,7 @@
-" " " " " " " การจัดการบันทึก " ถูกออกแบบมาเป็นโปรแกรมที่ออกแบบมาสําหรับผู้หญิงและการใช้โปรแกรม โปรแกรมนี้จะใช้แผนภูมิที่น่ารักของวันนี้จะรอโอกาสการตั้งครรภ์ครั้งต่อไปวันที่ทางสรีรวิทยาที่แสดงออกมาอย่างเข้าใจได้ง่ายและสามารถใช้ในการจัดการและการบันทึกรอบทางสรีรวิทยา ผู้หญิงที่ชื่นชอบความสะดวกสบายในการทำงานให้บริการฟรีทั้งหมด
+Functional introduction
+Task + progress bar: make every step of love clear through a reasonable task set, of course, this is just the most basic, and you need to do more.
+Remembrance: not only the important days can be recorded, the next time of celebration is also clearly visible, so that the pace of love is getting closer and closer.
+Action: love can not only be in the heart, with carefully planned actions to let Ta feel your mind
+Record: every love emerges, all should
+It should leave a trace
+Love: remember Ta every time you inadvertently mentioned, you will be the most Ta in the world.
